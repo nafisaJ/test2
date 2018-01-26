@@ -1,11 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "$class": "org.hyperledger.composer.system.ActivateCurrentIdentity",
+ "transactionId": "b220f47f-59b0-43c5-be02-0edd84c4dc0b",
+ "timestamp": "2018-01-26T00:34:25.802Z"
 }
